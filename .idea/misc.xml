@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/casopractico1/casofinal/pom.xml" />
+        <option value="$PROJECT_DIR$/Gestion_Animales/pom.xml" />
+        <option value="$PROJECT_DIR$/Gestion_Habitats/pom.xml" />
       </list>
     </option>
   </component>
