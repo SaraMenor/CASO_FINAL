@@ -23,10 +23,7 @@ public static void main (String[]args){
 
         switch (opcion) {
         case 1:
-        System.out.println("Seleccione el tipo de tour: ");
-        String tipoTour = scanner.next();
-        Tour.iniciarTour(tipoTour);
-        Tour.finalizarTour();
+            Tour.main(args);
         break;
 
         case 2:
