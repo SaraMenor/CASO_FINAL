@@ -11,10 +11,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Gestion_Animales" />
         <module name="casofinal" />
-        <module name="Gestion_Habitats" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Gestion_Animales" target="1.5" />
+      <module name="Gestion_Habitats" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

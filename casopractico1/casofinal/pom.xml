@@ -4,6 +4,10 @@
   <groupId>org.example</groupId>
   <artifactId>casofinal</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - casofinal</name>
+    <packaging>pom</packaging>
+    <name>Archetype - casofinal</name>
   <url>http://maven.apache.org</url>
+    <modules>
+        <module>Visitantes</module>
+    </modules>
 </project>
