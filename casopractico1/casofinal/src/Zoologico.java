@@ -27,9 +27,11 @@ public static void main (String[]args){
         break;
 
         case 2:
+            Mantenimiento.main(args);
             break;
 
          case 3:
+             Monitoreo.main(args);
              break;
 
 
